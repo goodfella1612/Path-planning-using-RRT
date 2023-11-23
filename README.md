@@ -1,4 +1,4 @@
-# Random Walk in Polygons
+# RRT algorithm
 
 ## Introduction
 
